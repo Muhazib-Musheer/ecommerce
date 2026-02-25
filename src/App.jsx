@@ -35,7 +35,7 @@ const App = () => {
           : item
       ));
     } else {
-      alert("You cannot add more than available stock");
+      alert("You can  not add more than available stock");
     }
   } else {
     setCartItems([
