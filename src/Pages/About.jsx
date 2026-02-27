@@ -38,6 +38,7 @@ const About = () => {
               Apple empowers you with tools that are powerful, intuitive,
               and built for the future.
             </p>
+            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Maiores ipsa totam aut? Ad, eos veritatis neque nam quisquam qui perferendis eaque esse inventore asperiores ipsa, sunt officia exercitationem amet? Eveniet.</p>
           </div>
 
           <div className="col-lg-6">
